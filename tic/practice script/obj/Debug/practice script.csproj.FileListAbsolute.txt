@@ -1,0 +1,7 @@
+C:\Users\night\source\repos\practice script\practice script\bin\Debug\practice script.exe.config
+C:\Users\night\source\repos\practice script\practice script\bin\Debug\practice script.exe
+C:\Users\night\source\repos\practice script\practice script\bin\Debug\practice script.pdb
+C:\Users\night\source\repos\practice script\practice script\obj\Debug\practice script.csproj.AssemblyReference.cache
+C:\Users\night\source\repos\practice script\practice script\obj\Debug\practice script.csproj.CoreCompileInputs.cache
+C:\Users\night\source\repos\practice script\practice script\obj\Debug\practice script.exe
+C:\Users\night\source\repos\practice script\practice script\obj\Debug\practice script.pdb
